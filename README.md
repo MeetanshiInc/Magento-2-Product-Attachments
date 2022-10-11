@@ -33,6 +33,6 @@ The Magento 2 Product Attachments module allows making your product page informa
 
 *  Restrict the file download limit
 
-For more information, visit [https://meetanshi.com/magento-2-product-attachments.html](https://meetanshi.com/magento-2-product-attachments.html)
+For more information, visit ***[https://meetanshi.com/magento-2-product-attachments.html](https://meetanshi.com/magento-2-product-attachments.html)***
 
 
